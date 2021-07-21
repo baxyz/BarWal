@@ -28,3 +28,7 @@ Makefile*
 *.autosave
 
 .tx/config
+
+# VSCode
+.settings
+.history
